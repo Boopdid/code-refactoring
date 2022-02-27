@@ -1,3 +1,4 @@
+/* Universal */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -48,7 +49,7 @@ a {
 p {
   font-size: 16px;
 }
-
+/* Main image on page */
 .hero {
   height: 800px;
   width: 100%;
@@ -73,7 +74,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
-
+/* The benefits section of the page */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -116,7 +117,7 @@ section h2 {
   font-size: 36px;
 }
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -124,6 +125,6 @@ section h2 {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
